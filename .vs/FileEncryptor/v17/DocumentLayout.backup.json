@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\csharp\\FileEncryptor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54FD55FB-4D9D-4A30-9F4D-F780FCB110F3}|FileEncryptor.csproj|c:\\users\\admin\\source\\repos\\csharp\\fileencryptor\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54FD55FB-4D9D-4A30-9F4D-F780FCB110F3}|FileEncryptor.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FD55FB-4D9D-4A30-9F4D-F780FCB110F3}|FileEncryptor.csproj|C:\\Users\\admin\\source\\repos\\csharp\\FileEncryptor\\fileencryptorbc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FD55FB-4D9D-4A30-9F4D-F780FCB110F3}|FileEncryptor.csproj|solutionrelative:fileencryptorbc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FD55FB-4D9D-4A30-9F4D-F780FCB110F3}|FileEncryptor.csproj|C:\\Users\\admin\\source\\repos\\csharp\\FileEncryptor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FD55FB-4D9D-4A30-9F4D-F780FCB110F3}|FileEncryptor.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54FD55FB-4D9D-4A30-9F4D-F780FCB110F3}|FileEncryptor.csproj|C:\\Users\\admin\\source\\repos\\csharp\\FileEncryptor\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54FD55FB-4D9D-4A30-9F4D-F780FCB110F3}|FileEncryptor.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|FileEncryptor||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmMain.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\csharp\\FileEncryptor\\FrmMain.cs",
+              "RelativeDocumentMoniker": "FrmMain.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\csharp\\FileEncryptor\\FrmMain.cs",
+              "RelativeToolTip": "FrmMain.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowBwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T22:53:36.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileEncryptor",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\csharp\\FileEncryptor\\FileEncryptor.csproj",
+              "RelativeDocumentMoniker": "FileEncryptor.csproj",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\csharp\\FileEncryptor\\FileEncryptor.csproj",
+              "RelativeToolTip": "FileEncryptor.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-22T22:37:40.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\csharp\\FileEncryptor\\FrmMain.cs",
+              "RelativeDocumentMoniker": "FrmMain.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\csharp\\FileEncryptor\\FrmMain.cs [Design]",
+              "RelativeToolTip": "FrmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T22:37:33.762Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileEncryptorBC.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\csharp\\FileEncryptor\\FileEncryptorBC.cs",
+              "RelativeDocumentMoniker": "FileEncryptorBC.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\csharp\\FileEncryptor\\FileEncryptorBC.cs",
+              "RelativeToolTip": "FileEncryptorBC.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAnwFEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T22:31:01.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\csharp\\FileEncryptor\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\csharp\\FileEncryptor\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAewBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T22:21:39.914Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

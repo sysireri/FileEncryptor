@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\csharp\FileEncryptor\bin\Debug\FileEncryptor.exe.config
+C:\Users\admin\source\repos\csharp\FileEncryptor\bin\Debug\FileEncryptor.exe
+C:\Users\admin\source\repos\csharp\FileEncryptor\bin\Debug\FileEncryptor.pdb
+C:\Users\admin\source\repos\csharp\FileEncryptor\obj\Debug\FileEncryptor.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\csharp\FileEncryptor\obj\Debug\FileEncryptor.Properties.Resources.resources
+C:\Users\admin\source\repos\csharp\FileEncryptor\obj\Debug\FileEncryptor.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\csharp\FileEncryptor\obj\Debug\FileEncryptor.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\csharp\FileEncryptor\obj\Debug\FileEncryptor.exe
+C:\Users\admin\source\repos\csharp\FileEncryptor\obj\Debug\FileEncryptor.pdb
+C:\Users\admin\source\repos\csharp\FileEncryptor\obj\Debug\FileEncryptor.FrmMain.resources
+C:\Users\admin\source\repos\csharp\FileEncryptor\obj\Debug\FileEncryptor.exe.config
