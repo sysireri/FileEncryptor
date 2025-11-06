@@ -36,6 +36,11 @@
             this.label3 = new System.Windows.Forms.Label();
             this.butEncrypt = new System.Windows.Forms.Button();
             this.butDecrypter = new System.Windows.Forms.Button();
+            this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
+            this.butSelectFileEnc = new System.Windows.Forms.Button();
+            this.butSelectFileDec = new System.Windows.Forms.Button();
+            this.chkSeePassword = new System.Windows.Forms.CheckBox();
+            this.LblRun = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label1
@@ -52,6 +57,7 @@
             // 
             this.txtPassword.Location = new System.Drawing.Point(203, 40);
             this.txtPassword.Name = "txtPassword";
+            this.txtPassword.PasswordChar = '*';
             this.txtPassword.Size = new System.Drawing.Size(429, 20);
             this.txtPassword.TabIndex = 1;
             this.txtPassword.Text = "ChangeMoi_!MotDePasseFort!";
@@ -94,7 +100,7 @@
             // 
             // butEncrypt
             // 
-            this.butEncrypt.Location = new System.Drawing.Point(659, 79);
+            this.butEncrypt.Location = new System.Drawing.Point(695, 79);
             this.butEncrypt.Name = "butEncrypt";
             this.butEncrypt.Size = new System.Drawing.Size(75, 23);
             this.butEncrypt.TabIndex = 6;
@@ -104,7 +110,7 @@
             // 
             // butDecrypter
             // 
-            this.butDecrypter.Location = new System.Drawing.Point(659, 123);
+            this.butDecrypter.Location = new System.Drawing.Point(695, 123);
             this.butDecrypter.Name = "butDecrypter";
             this.butDecrypter.Size = new System.Drawing.Size(75, 23);
             this.butDecrypter.TabIndex = 7;
@@ -112,11 +118,61 @@
             this.butDecrypter.UseVisualStyleBackColor = true;
             this.butDecrypter.Click += new System.EventHandler(this.butDecrypter_Click);
             // 
+            // openFileDialog1
+            // 
+            this.openFileDialog1.FileName = "openFileDialog1";
+            // 
+            // butSelectFileEnc
+            // 
+            this.butSelectFileEnc.Location = new System.Drawing.Point(647, 82);
+            this.butSelectFileEnc.Name = "butSelectFileEnc";
+            this.butSelectFileEnc.Size = new System.Drawing.Size(26, 23);
+            this.butSelectFileEnc.TabIndex = 8;
+            this.butSelectFileEnc.Text = "...";
+            this.butSelectFileEnc.UseVisualStyleBackColor = true;
+            this.butSelectFileEnc.Click += new System.EventHandler(this.butSelectFileEnc_Click);
+            // 
+            // butSelectFileDec
+            // 
+            this.butSelectFileDec.Location = new System.Drawing.Point(647, 123);
+            this.butSelectFileDec.Name = "butSelectFileDec";
+            this.butSelectFileDec.Size = new System.Drawing.Size(26, 23);
+            this.butSelectFileDec.TabIndex = 9;
+            this.butSelectFileDec.Text = "...";
+            this.butSelectFileDec.UseVisualStyleBackColor = true;
+            this.butSelectFileDec.Click += new System.EventHandler(this.butSelectFileDec_Click);
+            // 
+            // chkSeePassword
+            // 
+            this.chkSeePassword.AutoSize = true;
+            this.chkSeePassword.Location = new System.Drawing.Point(647, 40);
+            this.chkSeePassword.Name = "chkSeePassword";
+            this.chkSeePassword.Size = new System.Drawing.Size(128, 17);
+            this.chkSeePassword.TabIndex = 10;
+            this.chkSeePassword.Text = "Afficher mot de passe";
+            this.chkSeePassword.UseVisualStyleBackColor = true;
+            this.chkSeePassword.CheckedChanged += new System.EventHandler(this.chkSeePassword_CheckedChanged);
+            // 
+            // LblRun
+            // 
+            this.LblRun.AutoSize = true;
+            this.LblRun.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.LblRun.Location = new System.Drawing.Point(326, 160);
+            this.LblRun.Name = "LblRun";
+            this.LblRun.Size = new System.Drawing.Size(141, 16);
+            this.LblRun.TabIndex = 11;
+            this.LblRun.Text = "Exécution en cour...";
+            this.LblRun.Visible = false;
+            // 
             // FrmMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 192);
+            this.Controls.Add(this.LblRun);
+            this.Controls.Add(this.chkSeePassword);
+            this.Controls.Add(this.butSelectFileDec);
+            this.Controls.Add(this.butSelectFileEnc);
             this.Controls.Add(this.butDecrypter);
             this.Controls.Add(this.butEncrypt);
             this.Controls.Add(this.txtToDencrypt);
@@ -142,5 +198,10 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Button butEncrypt;
         private System.Windows.Forms.Button butDecrypter;
+        private System.Windows.Forms.OpenFileDialog openFileDialog1;
+        private System.Windows.Forms.Button butSelectFileEnc;
+        private System.Windows.Forms.Button butSelectFileDec;
+        private System.Windows.Forms.CheckBox chkSeePassword;
+        private System.Windows.Forms.Label LblRun;
     }
 }
